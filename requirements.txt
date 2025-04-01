@@ -1,0 +1,8 @@
+opencv-python
+numpy
+pyaudio
+wave
+picamera2
+ffmpeg-python
+telebot
+python-dotenv
